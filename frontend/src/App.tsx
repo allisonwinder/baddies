@@ -6,7 +6,7 @@ import TopBanner from "./blah";
 function App() {
   return (
     <div className="App">
-      <TopBanner />
+      <TopBanner saying="Allison's React Website -Main" />
     </div>
   );
 }
